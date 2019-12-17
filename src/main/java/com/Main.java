@@ -1,4 +1,4 @@
-package com.main;
+package com;
 
 import org.eclipse.jetty.server.Server;
 
