@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Start Server");
         Server server = new Server(8080);
 
+        Frontend frontend = new Frontend();
+
         server.start();
 
     }
